@@ -1,0 +1,42 @@
+[
+    {
+        "expression": "4.0 + 5.0",
+        "result": 9.0,
+        "timestamp": "2026-01-28 15:21:18"
+    },
+    {
+        "expression": "4.0 ^ 5.0",
+        "result": 1024.0,
+        "timestamp": "2026-01-28 15:21:58"
+    },
+    {
+        "expression": "110.0 + 10.0",
+        "result": 120.0,
+        "timestamp": "2026-01-28 17:50:33"
+    },
+    {
+        "expression": "\u221a9.0",
+        "result": 3.0,
+        "timestamp": "2026-01-28 17:51:07"
+    },
+    {
+        "expression": "90.0 / 9.0",
+        "result": 10.0,
+        "timestamp": "2026-01-28 17:55:45"
+    },
+    {
+        "expression": "90.0 / 9.0",
+        "result": 10.0,
+        "timestamp": "2026-01-28 17:56:04"
+    },
+    {
+        "expression": "90.0 * 9.0",
+        "result": 810.0,
+        "timestamp": "2026-01-28 17:58:22"
+    },
+    {
+        "expression": "90.0 * 9.0",
+        "result": 810.0,
+        "timestamp": "2026-01-28 17:59:45"
+    }
+]
